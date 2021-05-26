@@ -6,7 +6,7 @@ In order to use this plugin, you will be required to <a href="#set-deepL-api-key
 This plugin is based on symdesign's [Sketch Auto Translate Plugin](https://github.com/symdesign/sketch-auto-translate)
 And modified to work with Sketch 72.1, using DeepL translation.
 
-[Direct download](https://github.com/PascalRuppert/sketch-deepL-translate/blob/main/versions/DeepLTranslate.sketchplugin-1.0.zip)
+[Direct download](https://raw.githubusercontent.com/PascalRuppert/sketch-deepL-translate/main/versions/DeepLTranslate.sketchplugin-1.0.zip)
 
 
 ## Supported Languages 
