@@ -22,7 +22,7 @@ Bulgarian, Czech, Danish, German, Greek, English, Spanish, Estonian, Finnish, Fr
 ## Translate Selection
 Translates your selection on the current page no matter which type, apart from Symbol Masters.
 
-Shortcut: `⇧` `⌘` `\u0020` Translate Selection
+Shortcut: `⇧` `⌘` `Space` Translate Selection
 
 
 ## Translate Current Page
