@@ -6,9 +6,9 @@
     <description>Sketch Plugin to translate Text Layers and Symbol Overrides via DeepL.</description>
     <language>en</language>
     <item>
-      <title>v0.1.0</title>
+      <title>v1.0</title>
       <enclosure 
-        url="https://github.com/PascalRuppert/sketch-deepL-translate/blob/main/SketchDeepLTranslate.sketchplugin.zip" 
+        url="https://github.com/PascalRuppert/sketch-deepL-translate/blob/main/versions/DeepLTranslate.sketchplugin-1.0.zip" 
         sparkle:version="1.0" 
         type="application/octet-stream" />
     </item>
