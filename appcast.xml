@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sketch DeepL Translate Plugin</title>
+    <link>https://github.com/PascalRuppert/sketch-deepL-translate/blob/main/appcast.xml</link>
+    <description>Sketch Plugin to translate Text Layers and Symbol Overrides via DeepL.</description>
+    <language>en</language>
+    <item>
+      <title>v0.1.0</title>
+      <enclosure 
+        url="https://github.com/PascalRuppert/sketch-deepL-translate/blob/main/SketchDeepLTranslate.sketchplugin.zip" 
+        sparkle:version="1.0" 
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
