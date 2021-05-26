@@ -1,18 +1,12 @@
 # Sketch DeepL Translate Plugin
 
 Use DeepL to translate text layers and symbol overrides, localie your digital designs in minutes.
+In order to use this plugin, you will be required to <a href="#set-deepL-api-key">setup a DeepL API key</a>. <strong>
 
 This plugin is based on symdesign's [Sketch Auto Translate Plugin](https://github.com/symdesign/sketch-auto-translate)
 And modified to work with Sketch 72.1, using DeepL translation.
 
 
-<table>
-<tr>
-<td>
-This plugin requires you to <a href="#set-deepL-api-key">setup a DeepL API key</a>. <strong>
-</td>
-</tr>
-</table>
 
 
 ## Supported Languages 
